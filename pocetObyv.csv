@@ -1,9 +1,4 @@
-﻿Okres,Počet
-Bratislava,437726
-Košice,238593
-Slovenská republika,5457873
-Bratislavský kraj (NUTS2),669592
-Bratislavský kraj,669592
+Okres,Počet
 Okres Bratislava I,41893
 Okres Bratislava II,116223
 Okres Bratislava III,69479
@@ -12,8 +7,6 @@ Okres Bratislava V,112339
 Okres Malacky,74661
 Okres Pezinok,65593
 Okres Senec,91612
-Západné Slovensko,1823792
-Trnavský kraj,564917
 Okres Dunajská Streda,122825
 Okres Galanta,94147
 Okres Hlohovec,44943
@@ -21,7 +14,6 @@ Okres Piešťany,62726
 Okres Senica,60419
 Okres Skalica,47078
 Okres Trnava,132779
-Trenčiansky kraj,584569
 Okres Bánovce nad Bebravou,36184
 Okres Ilava,59075
 Okres Myjava,26256
@@ -31,7 +23,6 @@ Okres Považská Bystrica,62351
 Okres Prievidza,133721
 Okres Púchov,44248
 Okres Trenčín,114670
-Nitriansky kraj,674306
 Okres Komárno,101500
 Okres Levice,110523
 Okres Nitra,161679
@@ -39,8 +30,6 @@ Okres Nové Zámky,138577
 Okres Šaľa,51568
 Okres Topoľčany,69947
 Okres Zlaté Moravce,40512
-Stredné Slovensko,1336785
-Žilinský kraj,691509
 Okres Tvrdošín,36203
 Okres Žilina,158279
 Okres Bytča,30965
@@ -52,7 +41,6 @@ Okres Martin,96171
 Okres Námestovo,62879
 Okres Ružomberok,56657
 Okres Turčianske Teplice,15880
-Banskobystrický kraj,645276
 Okres Veľký Krtíš,43263
 Okres Zvolen,68685
 Okres Žarnovica,26112
@@ -66,8 +54,6 @@ Okres Lučenec,73342
 Okres Poltár,21397
 Okres Revúca,39537
 Okres Rimavská Sobota,84048
-Východné Slovensko,1627704
-Prešovský kraj,826244
 Okres Stará Ľubovňa,53958
 Okres Stropkov,20442
 Okres Svidník,32484
@@ -81,7 +67,6 @@ Okres Poprad,104990
 Okres Prešov,176181
 Okres Sabinov,60659
 Okres Snina,36123
-Košický kraj,801460
 Okres Spišská Nová Ves,99878
 Okres Trebišov,105295
 Okres Gelnica,31894
@@ -93,11 +78,3 @@ Okres Košice - okolie,130132
 Okres Michalovce,110748
 Okres Rožňava,62131
 Okres Sobrance,22789
-,
-,
-,
-,
-,
-,
-,
-,
